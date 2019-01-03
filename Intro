@@ -33,5 +33,5 @@ ctx.fillText("Hello", 450, 500);
 ctx.lineWidth = 1;
 ctx.strokeTest("World", 450, 550);
 
-//x.clearRect(0, 0, c.width, c.height);
+
 <script>
